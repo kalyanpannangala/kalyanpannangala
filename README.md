@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Kalyan  
 
+![Profile Views](https://komarev.com/ghpvc/?username=kalyanpannangala&label=Profile%20Views&color=0e75b6&style=flat)
+
 🎓 Final-year **B.Tech CSE (AI & ML)** student at Siddharth Institute of Science & Technology  
 💡 Passionate about **AI/ML, Web Development, and Computing Systems** (I believe PCs empower everyone 💻)  
 🚀 Building AI-driven platforms & self-hosted infrastructure | 📈 Also a Stock Trader  
@@ -81,9 +83,6 @@ Photography booking platform for customers & professionals.
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyanpannangala/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalyanpannangala)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kalyanpannangala)  
-
 ---
 
 ✨ *“Empowering through Tech — because PCs, AI, and people together can build real impact.”*  
