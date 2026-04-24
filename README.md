@@ -10,7 +10,7 @@
 
 ## 🛠️ About Me  
 - 🔹 **Technical Lead** @ MLSC Siddharth Institutions (led **Siddharth HackFest 2k25 & Siddharth HackFest 2k26**)  
-- 🔹 **Leading the Technical Operations** @ [CSEDGE](https://wwww.csedge.co)  
+- 🔹 **Leading the Technical Operations** @ [CSEDGE](https://www.csedge.co)  
 - 🔹 **Startup Spark 2k25 Winner** 🥇 with **NyayaSetu** – AI-powered legal aid platform  
 - 🔹 **Stock Trader & Tech Enthusiast** – exploring financial markets & technical analysis  
 - 🔹 Passionate about **PCs, CPUs, and system architecture, and applied Machine Learning** 
