@@ -10,7 +10,7 @@
 
 ## 🛠️ About Me  
 - 🔹 **Technical Lead** @ MLSC Siddharth Institutions (led **Siddharth HackFest 2k25 & Siddharth HackFest 2k26**)  
-- 🔹 **Leading the Technical Operations** @ [CSEDGE](https://www.csedge.co)  
+- 🔹 **Developer – AI/ML, Cloud & Platform Systems** @ [CSEDGE](https://www.csedge.co)  
 - 🔹 **Startup Spark 2k25 Winner** 🥇 with **NyayaSetu** – AI-powered legal aid platform  
 - 🔹 **Stock Trader & Tech Enthusiast** – exploring financial markets & technical analysis  
 - 🔹 Passionate about **PCs, CPUs, and system architecture, and applied Machine Learning** 
@@ -26,13 +26,13 @@ Dual platform for **Skill Exchange + Freelancing**, featuring SkillScore, escrow
 AI/ML-driven citizen advisory platform for **government schemes, tax guidance, and wealth planning**.  
 
 ### 🔗 [AIGenDB](https://www.aigendb.xyz) 
-Self-hosted AI-native database for intelligent querying & ML workflows. 
+AI-Driven Cloud Database Automation. 
 
 ### NyayaSetu 🏆  
 AI-powered legal aid platform → **1st Prize @ Startup Spark 2k25**.  
 
-### AIgenie *(In Development)*  
-Installable AI/ML framework + chatbot interface for generating custom ML models.   
+### 🔗 [ModelGenie](https://www.modelgenie.xyz) 
+Deterministic AI for ML Engineering..   
 
 ### SnaFist *(In Development)*  
 Photography booking platform for customers & professionals.  
