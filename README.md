@@ -9,30 +9,30 @@
 ---
 
 ## 🛠️ About Me  
-- 🔹 **Technical Lead** @ MLSC Siddharth Institutions (led **Siddharth HackFest 2k25**)  
-- 🔹 **AI & Data Analytics Intern** (AICTE – Shell / Edunet Foundation)  
+- 🔹 **Technical Lead** @ MLSC Siddharth Institutions (led **Siddharth HackFest 2k25 & Siddharth HackFest 2k26**)  
+- 🔹 **Leading the Technical Operations** @ [CSEDGE](https://wwww.csedge.co)  
 - 🔹 **Startup Spark 2k25 Winner** 🥇 with **NyayaSetu** – AI-powered legal aid platform  
 - 🔹 **Stock Trader & Tech Enthusiast** – exploring financial markets & technical analysis  
-- 🔹 Passionate about **PCs, CPUs, hardware, and system architecture, and applied Machine Learning** 
+- 🔹 Passionate about **PCs, CPUs, and system architecture, and applied Machine Learning** 
 
 ---
 
 ## 🚀 Projects  
 
-### 🔗 [SkillnGig](https://skillngig.xyz)  
+### 🔗 [SkillnGig](https://skillngig.vercel.app)  
 Dual platform for **Skill Exchange + Freelancing**, featuring SkillScore, escrow payments & dispute resolution.  
 
-### 🔗 [PrajaSeva](https://prajaSeva-ai.vercel.app)  
+### 🔗 [PrajaSeva](https://prajaSeva.xyz)  
 AI/ML-driven citizen advisory platform for **government schemes, tax guidance, and wealth planning**.  
+
+### [AIGenDB](https://www.aigendb.xyz) 
+Self-hosted AI-native database for intelligent querying & ML workflows. 
 
 ### NyayaSetu 🏆  
 AI-powered legal aid platform → **1st Prize @ Startup Spark 2k25**.  
 
 ### AIgenie *(In Development)*  
-Installable AI/ML framework + chatbot interface for generating custom ML models.  
-
-### AIGenDB *(In Development)*  
-Self-hosted AI-native database for intelligent querying & ML workflows.  
+Installable AI/ML framework + chatbot interface for generating custom ML models.   
 
 ### SnaFist *(In Development)*  
 Photography booking platform for customers & professionals.  
