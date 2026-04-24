@@ -25,7 +25,7 @@ Dual platform for **Skill Exchange + Freelancing**, featuring SkillScore, escrow
 ### 🔗 [PrajaSeva](https://prajaSeva.xyz)  
 AI/ML-driven citizen advisory platform for **government schemes, tax guidance, and wealth planning**.  
 
-### [AIGenDB](https://www.aigendb.xyz) 
+### 🔗 [AIGenDB](https://www.aigendb.xyz) 
 Self-hosted AI-native database for intelligent querying & ML workflows. 
 
 ### NyayaSetu 🏆  
